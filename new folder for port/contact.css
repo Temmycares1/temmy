@@ -1,0 +1,114 @@
+.footer-1 {
+    background-color: #fff;
+    height: 300px;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 50px;
+
+
+}
+
+.foot-1 {
+    padding-top: 40px;
+    height: 250px;
+    width: 30%;
+}
+
+.logo1 {
+    text-align: center;
+    color: red;
+}
+
+.text {
+    text-align: center;
+}
+
+.foot-2 {
+    padding-top: 50px;
+    height: 250px;
+    width: 30%;
+
+}
+
+.text2 {
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.foot-3 {
+    padding-top: 50px;
+    height: 250px;
+    width: 30%;
+
+}
+
+.text3 {
+    text-align: center;
+}
+
+.p2 {
+    text-align: center;
+}
+
+.foot-4 {
+    padding-top: 50px;
+    height: 250px;
+    width: 40%;
+
+}
+
+.text4 {
+    text-align: center;
+}
+
+.e1 {
+    height: 45px;
+    padding: 20px 20px 20px 20px 20px;
+    width: 60%;
+}
+
+button {
+    width: 20%;
+    height: 50px;
+    color: blue;
+    background-color: brown;
+
+}
+
+.but-4 {
+    border-radius: 0px 5px 5px 0px;
+}
+
+.tem1 {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.help-1 {
+    text-align: center;
+
+}
+
+.mum1 {
+    height: 70px;
+    width: 70px;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.pri1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+    grid-gap: 50px;
+
+}
+
+.copy-1 {
+    text-align: center;
+    margin-top: 50px;
+}

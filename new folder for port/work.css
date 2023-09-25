@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+}
+
+.mywork {
+    text-align: center;
+}
+
+.pro-colour {
+    background-color: yellow;
+    width: 15%;
+    margin-left: 580px;
+}
+
+.pro-1 {
+    text-align: center;
+
+
+
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.nav-links a {
+
+    color: red;
+    text-decoration: none;
+    transition: color 0.3s;
+
+}
+
+.nav-links li {
+    margin-right: 20px;
+
+}
+
+.mumu-head {
+    grid-gap: 10px;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.mumu-1 {
+    height: 190px;
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(/img/facebook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: none;
+}
+
+.mumu-2 {
+    height: 190px;
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(/img/facebook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: none;
+}
+
+.mumu-3 {
+    height: 190px;
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(/img/facebook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.mumu-4 {
+    height: 190px;
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(/img/gif.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.mumu-5 {
+    height: 190px;
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(/img/twitter.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.mumu-6 {
+    height: 190px;
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(/img/facebook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
